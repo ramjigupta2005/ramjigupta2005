@@ -91,8 +91,11 @@ Here are some ideas to get you started:
 
 ---
 
-### ✨ Fun Visual
+---
 
+### ✨ Fun Visual
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey!+I'm+Ramji+Gupta.;Full+Stack+Web+Developer.;I+💙+React,+MongoDB,+Node.js.;Let’s+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramjigupta2005&theme=dracula&no-frame=true&margin-w=10" />
 </p>
+
+
